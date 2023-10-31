@@ -9,6 +9,7 @@
 body {
     font-family: 'Karla', sans-serif;
     background-color: #c4d1db;
+    overflow:hidden ;
 }
 .container {
     height: 100vh;
@@ -100,10 +101,9 @@ body {
     .container {
         position: relative;
         width: 466px;
-        /* background-color: #2BB4B1; */
         position: absolute;
-        top: 40%;
-        left: 50%;
+        top: 41%;
+        left: 40%;
         height: 1136px;
         transform: translate(-35%, -34%);
     }
